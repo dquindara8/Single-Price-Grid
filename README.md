@@ -18,8 +18,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- [Solution URL](........)
-- [Live site URL](..............)
+- [Solution URL](https://github.com/dquindara8/Single-Price-Grid)
+- [Live site URL](https://dquindara8.github.io/Single-Price-Grid/)
 
 ### Built with
 
