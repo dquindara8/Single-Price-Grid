@@ -14,7 +14,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 ### Screenshot
 
 ![Single Price Grid Component](https://user-images.githubusercontent.com/108308166/195963101-ecfdda0c-017e-45a9-b3d5-4800576163f8.jpg)
-)
+
 
 ### Links
 
@@ -30,7 +30,7 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Continued development
 
-I want to continue learning to apply @media rules to make webpages more responsive on different screen sizes and also to center the item in webpage correctly.
+I want to continue learning to apply @media rules to make webpages more responsive on different screen sizes and also to center the item in webpage correctly with appropiate properties..
 
 ## Author
 
