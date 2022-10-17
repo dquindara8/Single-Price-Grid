@@ -25,36 +25,34 @@ body {
 
 .top-box {
   grid-area: top-box;
-  padding: 30px;
+  padding: 20px;
   background-color: white;
   width: 42vw;
-  height: 27vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
+  height: 25vh;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
 }
 
 .bottom-left {
   grid-area: bottom-left;
-  padding: 25px 30px;
+  padding: 25px 25px;
   background-color: hsl(179, 62%, 43%);
   width: 21vw;
+  height: 32vh;
   color: white;
-  position: relative;
   border-bottom-left-radius: 5px;
+  position: relative;
 }
 
 .bottom-right {
   grid-area: bottom-right;
-  padding: 12px 30px;
+  padding: 25px 25px;
   background-color: hsla(179, 62%, 43%, 0.789);
   width: 21vw;
-  height: 31vh;
+  height: 32vh;
   color: white;
-  position: relative;
   border-bottom-right-radius: 5px;
+  position: relative;
 }
 
 .para1 {
@@ -126,12 +124,16 @@ button:hover {
 .content2 {
   line-height: 2.6;
   font-size: 16px;
+  position: absolute;
+  top: 10px;
 }
 
 .para8 {
   opacity: 0.6;
   font-size: 12px;
   line-height: 1.3;
+  position: relative;
+  top: 30px;
 }
 
 
