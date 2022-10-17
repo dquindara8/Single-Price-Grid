@@ -41,7 +41,6 @@ body {
   padding: 25px 30px;
   background-color: hsl(179, 62%, 43%);
   width: 21vw;
-  height: 33vh;
   color: white;
   position: relative;
   border-bottom-left-radius: 5px;
@@ -52,7 +51,7 @@ body {
   padding: 12px 30px;
   background-color: hsla(179, 62%, 43%, 0.789);
   width: 21vw;
-  height: 33vh;
+  height: 31vh;
   color: white;
   position: relative;
   border-bottom-right-radius: 5px;
